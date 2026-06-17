@@ -1,1 +1,3 @@
 # Kokushibo
+.help
+.play
